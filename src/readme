@@ -1,25 +1,5 @@
 README!
-
-Our team owns a command line interface (CLI) that customers use to interact with the server. The code you see here is a simplified and smaller version of this CLI.
-
-
-
-Your job is to design and implement the help command for this CLI. Your help command should give essential information to customers about specific commands.
- The format for calling your help command can be whatever you think is best, but customers should be able to
-
-1. See all of the commands available to them.
-
-2. See specific and detailed help for specific commands as requested. Finally, you should develop a testing strategy for your help implementation
-and create unit tests in HelpTests for ensuring the help command behaves as expected.
-
-
-
-Since this is a simplified version of the CLI, we will assume that the args passed to the CommandExecutor begin with the command name e.g. args: ["help", "arg1", "arg2"].
- Again for simplification, output is returned as a string instead of to Standard.out.
-
-
-
-Feel free to modify the existing code to suit your idea for what the best help user experience would be.
+Check out the PDF Attched for a detailed screenshots and explanation. 
 
 
 Author Description:
